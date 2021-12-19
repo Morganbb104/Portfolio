@@ -3,6 +3,6 @@
 html-css-Portfolio
 
 Link to Live Preview
-https://github.com/Morganbb104/Portfolio
+https://morganbb104.github.io/Portfolio/
 
 Images from Live Site
