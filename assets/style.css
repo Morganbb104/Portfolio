@@ -105,10 +105,10 @@ h2{
     height:auto;
     border-radius:150px;
 }
-
+/* project size and form */
 .project-card{
     width: 200px;
-    height:500px;
+    height:300px;
     border: 1px solid black ;
     box-shadow: 10px 5px 5px red;
 }
@@ -123,5 +123,5 @@ h2{
 .projector{
     display: flex;
     flex-direction: column;
-
+    text-align: center;
 }
