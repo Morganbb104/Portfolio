@@ -18,7 +18,7 @@ section{
 
 footer{
     height: 100px;
-    background-color: rgb(54, 42, 165);
+    background-color: rgb(42, 151, 165);
 }
 
 nav{
@@ -124,13 +124,13 @@ h2{
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 40px;
+    padding: 20px;
 }
 
 .project-image{
     margin-top: 30px;
     width: 100px;
-    border-radius: 125px;
+    border-radius: 25px;
 }
 
 hr{
