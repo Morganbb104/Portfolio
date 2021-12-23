@@ -129,7 +129,15 @@ h2{
 
 .project-image{
     margin-top: 30px;
-    width: 150px;
-    border-radius: 100px;
-    
+    width: 100px;
+    border-radius: 125px;
+}
+
+hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footinfo{
+    text-align: center;
 }
