@@ -10,8 +10,8 @@ https://morganbb104.github.io/Portfolio/
 
 ## Images from Live Site
 ![Portfolio; home, top](https://github.com/Morganbb104/Portfolio/blob/main/assets/images/preview_image1.jpg)
-![Portfolio; home, middle](assets\images\preview_image2.jpg)
-![Portfolio; home, buttom](assets\images\preview_image3.jpg)
+![Portfolio; home, middle](https://github.com/Morganbb104/Portfolio/blob/main/assets/images/preview_image2.jpg)
+![Portfolio; home, buttom](https://github.com/Morganbb104/Portfolio/blob/main/assets/images/preview_image3.jpg)
 
 <!-- # html-code-refactor
 ## Intro to html code refactoring, focused on accessibility
