@@ -9,7 +9,7 @@ https://morganbb104.github.io/Portfolio/
 
 
 ## Images from Live Site
-![Portfolio; home, top](assets\images\preview_image1.jpg)
+![](assets\images\preview_image1.jpg)
 ![Portfolio; home, middle](assets\images\preview_image2.jpg)
 ![Portfolio; home, buttom](assets\images\preview_image3.jpg)
 
