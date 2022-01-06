@@ -33,6 +33,18 @@ nav{
     align-items: center;
 }
 
+.about-me::before{
+    content: "😳";
+}
+
+.about-me::after{
+    content: "😀";
+}
+
+.Contact-me::after{
+    content:"👉👉👉";
+}
+
 ul{
     display: flex;
     list-style-type: none;
@@ -70,8 +82,9 @@ p{
 }
 
 .hero-text{
-    margin-left: 40px;
+    margin-left: 20px;
     margin-bottom: 100px;
+    margin-right: 100px;
 }
 
 .button{
@@ -181,3 +194,7 @@ hr{
     } */
   }
 
+.project-container :hover .project-card{
+    opacity: 0.4;
+    transform: scale(1.3);
+  }
