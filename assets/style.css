@@ -33,12 +33,12 @@ nav{
     align-items: center;
 }
 
-.about-me::before{
+.about-me::after{
     content: "😳";
 }
 
-.about-me::after{
-    content: "😀";
+.Project::after{
+    content: "👍";
 }
 
 .Contact-me::after{
