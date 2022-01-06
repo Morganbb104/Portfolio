@@ -26,6 +26,11 @@ header{
     display: flex;
     flex-direction: column;
 }
+
+.header_items{
+    font-size: 20px;
+}
+
 nav{
     display: flex;
     flex-direction: row;
@@ -132,7 +137,7 @@ p{
 }
 
 h2{
-    font-size: 50px ;
+    font-size: 70px ;
 }
 
 .information{
