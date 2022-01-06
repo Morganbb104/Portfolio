@@ -49,7 +49,7 @@ nav{
     font-size: 20px;
     transition: font-size 4s 1s;
 }
-.information{
+.information:hover{
     font-size: 30px;
 }
 
