@@ -47,7 +47,7 @@ nav{
 }
 
 .Contact-me::after{
-    content:"👉👉👉";
+    content:"👇👇👇";
 }
 
 .information{
@@ -209,10 +209,6 @@ hr{
     } */
   }
 
-/* .project-container:hover.project-card{
-    opacity: 0.4;
-    transform: scale(1.3);
-  } */
 
   /* scroll bar */
   /* width */
